@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttom_bar</string>
+    <string name="title_home">Home</string>
+    <string name="title_Wargame">Wargame</string>
+    <string name="title_Community">Community</string>
+    <string name="title_Mypage">Mypage</string>
+</resources>
